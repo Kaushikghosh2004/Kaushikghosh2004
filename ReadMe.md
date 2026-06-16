@@ -1,7 +1,7 @@
 # Hi there, I'm Kaushik Ghosh 👋
 <div align="center">
   <a href="https://github.com/Kaushikghosh2004">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31A8FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Kaushik+Ghosh+👋;Full-Stack+Software+Engineer;AI+%26+Computer+Vision+Specialist;Technical+Head+@+TIB+IDEA+CAFE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=31A8FF&center=true&vCenter=true&width=800&lines=Hi+there,+I%27m+Kaushik+Ghosh;Full-Stack+Software+Engineer;AI+%26+Computer+Vision+Specialist;Technical+Head+@+TIB+IDEA+CAFE" alt="Typing SVG" />
   </a>
 </div>
 
