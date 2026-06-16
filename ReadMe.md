@@ -1,6 +1,8 @@
 # Hi there, I'm Kaushik Ghosh 👋
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Kaushik%20Ghosh&fontSize=50&fontColor=31A8FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision%20%7C%20Technical%20Head&descAlignY=58&descSize=20" alt="Header" />
+  <a href="https://github.com/Kaushikghosh2004">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31A8FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Kaushik+Ghosh+👋;Full-Stack+Software+Engineer;AI+%26+Computer+Vision+Specialist;Technical+Head+@+TIB+IDEA+CAFE" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -11,30 +13,14 @@
   <a href="https://instagram.com/iamkaushikghosh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
-
-Innovative software engineer merging complex backend architecture with sleek, high-tech user experiences. Currently navigating my final year in CSE at Techno International Batanagar while leading technical operations for large-scale institutional events. 
-
-* 🔭 **Currently working on:** An automated AI boulder detection system (YOLO/R-CNN) & enterprise event management engines.
-* 🚀 **Leadership:** President & Technical Head at TIB IDEA CAFE, spearheading the digital infrastructure for TEKATHON 2K26.
-* 🌱 **Currently mastering:** DevOps, MERN stack, and advanced computer vision optimization.
-* 🤝 **Looking to collaborate on:** Open-source AI/ML ecosystems and full-stack automation workflows.
-* ⚡ **Fun fact:** I enjoy teaching machines to see while sipping chai during debugging!
+> **Professional Summary**
+> Innovative Computer Science graduate and Technical Head specializing in full-stack architecture, machine learning, and computer vision. Proven track record of deploying enterprise-grade AI (like YOLO/R-CNN models at Tata Steel) and architecting high-traffic platforms. Passionate about bridging the gap between complex backend systems and seamless, high-tech user experiences.
 
 ---
 
-## 🏆 Featured Architecture & Projects
-
-* 🌐 **[VidyaVerse](https://github.com/Kaushikghosh2004/Vidyaverse):** A complete campus ecosystem centralizing daily academic ops, featuring AI voice-intent logic and smart break scheduling.
-* ⚙️ **NEXUS (Event Engine):** The official command center for the 9-hour TEKATHON 2K26 marathon. Built with an HTML5 drag-and-drop routing matrix, dynamic certificate generation, and live telemetry.
-* 🌿 **[Crop Disease Detection](https://github.com/Kaushikghosh2004/Crop-Disease-Detector):** A Flask + OpenCV diagnostic platform powered by a custom YOLOv11 model to instantly identify agricultural diseases.
-* 🚨 **[Women Safety SOS](https://github.com/Kaushikghosh2004/Women_Saftey):** Cross-platform React Native app engineered with one-touch GPS distress broadcasting via a Node.js backend.
-
----
-
-## 💻 Tech Arsenal
+### 💻 Tech Arsenal
 
 **Core & Backend** <br>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
@@ -50,23 +36,37 @@ Innovative software engineer merging complex backend architecture with sleek, hi
 
 ---
 
-## 📊 GitHub Analytics
+### 🚀 Featured Architecture & Engineering Highlights
+
+*   **Industrial AI at Tata Steel:** Developed an automated boulder detection system for mining operations using **R-CNN and YOLO**, significantly enhancing operational safety.
+*   **[VidyaVerse](https://github.com/Kaushikghosh2004/Vidyaverse):** Architected a comprehensive full-stack campus ecosystem centralizing daily academic operations, featuring AI voice-intent logic and secure institutional portals.
+*   **NEXUS Event Engine:** Deployed the official command center platform for **TEKATHON 2K26**, a high-intensity 9-hour innovation marathon. Engineered dynamic routing matrices and live telemetry dashboards.
+*   **[Crop Disease Detection](https://github.com/Kaushikghosh2004/Crop-Disease-Detector):** A Flask and OpenCV diagnostic web app powered by a custom-trained **YOLOv11** model to instantly identify agricultural diseases.
+*   **[Women Safety SOS](https://github.com/Kaushikghosh2004/Women_Saftey):** Cross-platform React Native app providing one-touch distress broadcasting with real-time GPS coordinates via a secure Node.js backend.
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=kaushikghosh2004&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Kaushik's GitHub Stats" />
+        <!-- Fixed Main Stats Card -->
+        <img src="https://github-readme-stats.vercel.app/api?username=kaushikghosh2004&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&bg_color=0D1117" alt="Kaushik's GitHub Stats" />
       </td>
       <td align="center" width="50%">
+        <!-- Top Languages Card -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikghosh2004&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
+        <!-- Streak Stats Card -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikghosh2004&theme=tokyonight&hide_border=true&background=0D1117" alt="Kaushik's Streak Stats" />
       </td>
       <td align="center" width="50%">
+        <!-- Dev Quote Card -->
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117" alt="Random Dev Quote" />
       </td>
     </tr>
@@ -74,7 +74,6 @@ Innovative software engineer merging complex backend architecture with sleek, hi
 
   <br />
 
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=kaushikghosh2004&label=Profile%20Views&color=121011&icon=5&title_color=ffffff" alt="Profile Views" />
-  </a>
+  <!-- Fixed Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=kaushikghosh2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
